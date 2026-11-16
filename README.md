@@ -5,4 +5,4 @@
 # MCP
 https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro
 
-<img width="1483" height="960" alt="mcp" src="https://github.com/user-attachments/assets/ada3a904-185d-4e31-b909-20dfa7af15e3" />
+<img width="1483" height="967" alt="mcp" src="https://github.com/user-attachments/assets/add9bc9d-8bdc-4a39-a52e-148795ff8779" />
